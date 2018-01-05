@@ -1,0 +1,27 @@
+---
+title: "Check Your Own Health"
+author: "Ying Cai"
+date: "2017-12-24"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Instructions
+Body Mass Index (BMI) is a simple index of weight-for-height that is commonly used to classify underweight, overweight and obesity in adults. It is defined as the weight in kilograms divided by the square of the height in metres (kg/m2).
+
+Your can use this KPI to check your own health!
+  
+## Shiny App
+
+Please visit on https://januschoi.shinyapps.io/dataproducthealth/
+
+## How to use
+
+Input weight, height, gender and country of origin and get the results!
+
+## End
+
+Thanks for using!
